@@ -25,7 +25,7 @@ cargo of extracellular vesicles as potential therapeutics**, MA de Pedro et al. 
 - **Next soon** 
 
 ## 🎓 Currently Learning
-- Currently enrolled into MSc in *Bioinformatics and biostatistics* at UOC.
+- Currently enrolled into MSc in *Bioinformatics and biostatistics* at UOC
 - Cloud-based bioinformatics workflows  
 - R Shiny apps  
 - Machine learning for biological data
