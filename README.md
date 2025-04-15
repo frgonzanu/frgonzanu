@@ -4,9 +4,11 @@ I'm a bioinformatics enthusiast with a background in biomedical engineering and 
 ## 🔬 Featured Projects
 
 - 🔗 [Omics Data Visualizer](https://github.com/frgonzanu/API_omic-visualization)
+  
   An API-based application to visualize omics data with customizable heatmaps and correlation tables.
 
-- 📊 [Synthetic Population Generator](https://github.com/frgonzanu/Disease_artif_population_ORs)  
+- 📊 [Synthetic Population Generator](https://github.com/frgonzanu/Disease_artif_population_ORs)
+  
   R script to simulate artificial populations with health risk factors and disease probabilities.
 
 ## 🏛️ Conferences
@@ -21,7 +23,9 @@ I'm a bioinformatics enthusiast with a background in biomedical engineering and 
 
 - [**Menstrual blood-derived mesenchymal stromal cells: impact of preconditioning on the
 cargo of extracellular vesicles as potential therapeutics**, MA de Pedro et al. (2023)](https://doi.org/10.1186/s13287-023-03413-5)
-  Breve descripción.
+
+Comprehensive proteomics data analysis involving unsupervised methods (PCA, heatmap clustering) and downstream functional enrichment interpretation.
+
 - **Next soon** 
 
 ## 🎓 Currently Learning
