@@ -12,10 +12,10 @@ I'm a bioinformatics enthusiast with a background in biomedical engineering and 
   R script to simulate artificial populations with health risk factors and disease probabilities.
 
 ## 🏛️ Conferences
-- **Effect of Experimental Microsurgical Anastomosis Training on Procedure Quality and Surgeon Ergonomics** (Spanish: Efecto del entrenamiento de la anastomosis microquirúrgica experimental en la calidad del procedimiento y la ergonomía del cirujano), Francisco M. González Nuño et al. (CASEIB2022).
 
-  
 - **Proinflammatory priming of menstrual blood-derived mesenchymal stromal cells alters the protein cargo of their extracellular vesicles enhancing their immunosuppressive properties**, María Ángeles De Pedro et al. Poster in 44th Conference of Spanish Society of Immunology (SEI2023).
+
+- **Effect of Experimental Microsurgical Anastomosis Training on Procedure Quality and Surgeon Ergonomics** (Spanish: Efecto del entrenamiento de la anastomosis microquirúrgica experimental en la calidad del procedimiento y la ergonomía del cirujano), Francisco M. González Nuño et al. (CASEIB2022).
 
 
 
@@ -29,8 +29,7 @@ Comprehensive proteomics data analysis involving unsupervised methods (PCA, heat
 - **Next soon** 
 
 ## 🎓 Currently Learning
-- Currently enrolled into MSc in *Bioinformatics and biostatistics* at UOC
-- Cloud-based bioinformatics workflows  
+- Currently enrolled in an MSc in *Bioinformatics and Biostatistics* at UOC
 - R Shiny apps  
 - Machine learning for biological data
 
