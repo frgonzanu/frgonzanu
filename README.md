@@ -26,15 +26,15 @@ Comprehensive proteomics data analysis involving unsupervised methods (PCA, heat
 
 ## 🏛️ Conferences
 
--**Systems biology applied to ovarian cancer: a new therapeutic strategy using extracellular vesicles derived from menstrual blood stromal cells** (Spanish: Biología de sistemas aplicada al cáncer de ovario: nueva estrategia terapéutica con vesículas extracelulares derivadas de células estromales de sangre menstrual), María de los Ángeles de Pedro et al. Presentation at the Congress of the Spanish Society of Surgical Research (SEIQ 2025).
+- **Systems biology applied to ovarian cancer: a new therapeutic strategy using extracellular vesicles derived from menstrual blood stromal cells** (Spanish: Biología de sistemas aplicada al cáncer de ovario: nueva estrategia terapéutica con vesículas extracelulares derivadas de células estromales de sangre menstrual), María de los Ángeles de Pedro et al. Presentation at the Congress of the Spanish Society of Surgical Research (SEIQ 2025).
 
--**Comparison of ergonomics between robotic and conventional surgery: a study of muscle activity and body posture**, M. Kappel et al. (2024).
+- **Comparison of ergonomics between robotic and conventional surgery: a study of muscle activity and body posture**, M. Kappel et al. (2024).
 
--**Objective analysis of ergonomics in robotic microsurgery**, M. Kappel et al. (2024).
+- **Objective analysis of ergonomics in robotic microsurgery**, M. Kappel et al. (2024).
 
--**Objective analysis and comparison of stress level during robotic and conventional laparoscopic surgery**, M. J. Pérez Salazar et al. (2024).
+- **Objective analysis and comparison of stress level during robotic and conventional laparoscopic surgery**, M. J. Pérez Salazar et al. (2024).
 
--**Analysis of stress during surgical procedures using conventional and robotic laparoscopy** (Spanish: Análisis del estrés durante procedimientos quirúrgicos mediante laparoscopia convencional y robótica), M. J. Pérez Salazar (2024), Presentation at the XLI Annual Congress of the Spanish Society of Biomedical Engineering (CASEIB 2023).
+- **Analysis of stress during surgical procedures using conventional and robotic laparoscopy** (Spanish: Análisis del estrés durante procedimientos quirúrgicos mediante laparoscopia convencional y robótica), M. J. Pérez Salazar (2024), Presentation at the XLI Annual Congress of the Spanish Society of Biomedical Engineering (CASEIB 2023).
 
 - **Proinflammatory priming of menstrual blood-derived mesenchymal stromal cells alters the protein cargo of their extracellular vesicles enhancing their immunosuppressive properties**, María Ángeles De Pedro et al. Poster in 44th Conference of Spanish Society of Immunology (SEI2023).
 
