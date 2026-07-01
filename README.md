@@ -43,9 +43,8 @@ Comprehensive proteomics data analysis involving unsupervised methods (PCA, heat
  
 
 ## 🎓 Currently Learning
-- Currently enrolled in an MSc in *Bioinformatics and Biostatistics* at UOC
 - R Shiny apps  
-- Machine learning for biological data
+- Machine and deep learning (ML/DL) for biological data
 
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/francisco-manuel-gonzalez-nuno/) 
