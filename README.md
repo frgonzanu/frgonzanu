@@ -11,6 +11,10 @@ I'm a bioinformatics enthusiast with a background in biomedical engineering and 
   
   R script to simulate artificial populations with health risk factors and disease probabilities.
 
+- 🎓[Trabajo Fin de Máster: Identificación de una firma de genes candidatos en metástasis ganglionar en cáncer colorrectal mediante *scRNA-seq*](https://github.com/frgonzanu/TFM)
+
+  *scRNA‑seq* analysis from raw FASTQ files to the proposal of an exploratory gene set as a candidate metastatic signature in CRC.
+
 
 
 ## 📄 Publications
