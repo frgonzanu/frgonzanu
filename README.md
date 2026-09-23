@@ -1,19 +1,105 @@
-# 👋 Hi, I'm Francisco!
-I'm a bioinformatics enthusiast with a background in biomedical engineering and a growing passion for data science and omics analysis.
+# 👋 Hi, I'm Francisco González!
 
-## 🔬 Featured Projects
+**Biomedical Engineer | Bioinformatics & Biostatistics | Scientific Computing**
 
-- 🔗 [Omics Data Visualizer](https://github.com/frgonzanu/API_omic-visualization)
-  
-  An API-based application to visualize omics data with customizable heatmaps and correlation tables.
+I am a biomedical engineer and bioinformatician working at the intersection of biomedical research, omics data analysis, machine learning, and scientific computing.
 
-- 📊 [Synthetic Population Generator](https://github.com/frgonzanu/Disease_artif_population_ORs)
-  
-  R script to simulate artificial populations with health risk factors and disease probabilities.
+My background combines biomedical engineering with bioinformatics and biostatistics, allowing me to work from understanding a biological or technical problem to designing reproducible computational analyses.
 
-- 🎓[Trabajo Fin de Máster: Identificación de una firma de genes candidatos en metástasis ganglionar en cáncer colorrectal mediante *scRNA-seq*](https://github.com/frgonzanu/TFM)
 
-  *scRNA‑seq* analysis from raw FASTQ files to the proposal of an exploratory gene set as a candidate metastatic signature in CRC.
+## 🔬 Main interests
+
+- 🧬 Transcriptomics, single-cell RNA-seq and multi-omics analysis
+- 📊 Statistical modelling and biomedical data analysis
+- 🤖 Machine learning and deep learning for biomedical applications
+- ⚙️ Reproducible scientific workflows and data pipelines
+- 🖥️ Linux, containers and HPC environments
+
+
+## 🚀 Featured projects
+
+### 🧬 Single-cell RNA-seq analysis of colorectal cancer
+
+[**TFM repository**](https://github.com/frgonzanu/TFM)
+
+End-to-end analysis of public colorectal cancer *scRNA-seq* data, from raw sequencing files to candidate gene prioritisation for lymph-node metastasis.
+
+Main steps:
+
+- FASTQ preprocessing and quality control
+- STAR alignment and count generation
+- SingleCellExperiment-based analysis
+- QC, normalisation and batch correction
+- PCA, UMAP, t-SNE and clustering
+- Cell-type annotation
+- Patient-aware pseudobulk differential expression with `edgeR`
+- Multivariate modelling with `sPLS-DA`
+- GSEA and pathway enrichment
+- PROGENy and DoRothEA activity inference
+- Exploratory scVI and LDVAE analyses
+
+**Technologies:**  
+`R` · `Bioconductor` · `Python` · `Bash` · `STAR` · `edgeR` · `SingleR` · `mixOmics` · `clusterProfiler` · `scvi-tools`
+
+---
+
+### 📊 Interactive omics data visualisation
+
+[**API_omic-visualization**](https://github.com/frgonzanu/API_omic-visualization)
+
+R Shiny application for exploratory omics data analysis, including interactive heatmaps and correlation matrices.
+
+A deployed version is available through shinyapps.io.
+
+**Technologies:**  
+`R` · `Shiny` · `ComplexHeatmap` · `corrplot`
+
+---
+
+### 🧮 Synthetic disease population modelling
+
+[**Disease_artif_population_ORs**](https://github.com/frgonzanu/Disease_artif_population_ORs)
+
+Simulation of synthetic populations using epidemiological risk factors and published odds ratios to explore disease-risk distributions and predictive modelling strategies.
+
+**Technologies:**  
+`R` · `Statistical modelling` · `Epidemiological data analysis`
+
+
+## 🖥️ Scientific computing
+
+Alongside omics analysis, I currently work on computational biomedical research involving **machine learning and deep learning applied to biomedical engineering and bioprinting**.
+
+My current technical work includes:
+
+- Python and PyTorch
+- Computer vision and video classification
+- Hyperparameter optimisation
+- Linux-based scientific computing
+- Docker and Apptainer/Singularity
+- SLURM-based HPC environments
+- GPU/CUDA workloads
+- Git-based development
+- Reproducible data-processing workflows
+- Snakemake
+
+I am particularly interested in bridging bioinformatics, reproducible workflows and scalable scientific computing.
+
+## 🛠️ Technical stack
+
+### Bioinformatics & statistics
+
+`R` · `Bioconductor` · `SingleCellExperiment` · `edgeR` · `SingleR` · `clusterProfiler` · `mixOmics` · `scVI`
+
+### Programming & data
+
+`Python` · `R` · `Bash` · `Git`
+
+### Machine learning and deep learning
+
+### Scientific computing
+
+`Linux` · `Docker` · `Apptainer/Singularity` · `SLURM` · `CUDA` · `Snakemake`
 
 
 
@@ -22,10 +108,10 @@ I'm a bioinformatics enthusiast with a background in biomedical engineering and 
 - [**Menstrual blood-derived mesenchymal stromal cells: impact of preconditioning on the
 cargo of extracellular vesicles as potential therapeutics**, MA de Pedro et al. (2023)](https://doi.org/10.1186/s13287-023-03413-5)
 
-Comprehensive proteomics data analysis involving unsupervised methods (PCA, heatmap clustering) and downstream functional enrichment interpretation.
-
 - [**Menstrual Blood-Derived Mesenchymal Stromal Cell Secretome Modulates Macrophage Polarization in a Preconditioning-Dependent Manner**, MA de Pedro et al. (2026).](doi.org/10.3389/fcell.2025.1691010)
 
+
+My contributions include biomedical data analysis, proteomics and transcriptomics interpretation, statistical analysis and scientific research.
 
 
 ## 🏛️ Conferences
@@ -46,10 +132,16 @@ Comprehensive proteomics data analysis involving unsupervised methods (PCA, heat
 
  
 
-## 🎓 Currently Learning
-- R Shiny apps  
-- Machine and deep learning (ML/DL) for biological data
+## 🎓 Background
 
-## 📫 Get in touch
-- [LinkedIn](https://www.linkedin.com/in/francisco-manuel-gonzalez-nuno/) 
+- **MSc Bioinformatics & Biostatistics** — Universitat Oberta de Catalunya
+- **MSc Biomedical Engineering** — Universitat de Barcelona
+- **BSc Industrial Electronic Engineering** — Universidad de Granada
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/francisco-manuel-gonzalez-nuno/)
+- 
 - [Email](mailto:paco.gonzaln@gmail.com)
