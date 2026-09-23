@@ -45,7 +45,7 @@ Main steps:
 
 ### ⚙️ Reproducible scRNA-seq preprocessing with Snakemake
 
-[→ Repository: scWorkflowCRC](https://github.com/frgonzanu/scWorkflowCRC)
+[Repository: scWorkflowCRC](https://github.com/frgonzanu/scWorkflowCRC)
 
 Refactoring of the preprocessing stage of my MSc thesis into a reproducible and HPC-oriented **Snakemake workflow** using real GSE97693 colorectal cancer scRNA-seq data.
 
