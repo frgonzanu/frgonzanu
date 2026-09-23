@@ -43,6 +43,31 @@ Main steps:
 
 ---
 
+### ⚙️ Reproducible scRNA-seq preprocessing with Snakemake
+
+[→ Repository: scWorkflowCRC](https://github.com/frgonzanu/scWorkflowCRC)
+
+Refactoring of the preprocessing stage of my MSc thesis into a reproducible and HPC-oriented **Snakemake workflow** using real GSE97693 colorectal cancer scRNA-seq data.
+
+The workflow includes:
+
+- ENA metadata retrieval and validated FASTQ downloads
+- MD5 integrity checks and resumable transfers
+- Raw and post-trimming FastQC
+- Protocol-specific Cutadapt preprocessing
+- GRCh38 / GENCODE v38 reference preparation
+- STAR genome indexing and gene-level quantification
+- Parallel execution on SLURM-based HPC environments
+- Automated generation of the gene-by-cell count matrix
+- MultiQC reporting
+- Conda-based software environments and configuration validation
+
+The project illustrates the transition from sequential Bash/Python preprocessing scripts to a dependency-aware, reproducible scientific workflow suitable for local and HPC execution.
+
+**Technologies:** Snakemake, Python, Bash, STAR, Cutadapt, FastQC, MultiQC, Conda, SLURM, ENA
+
+---
+
 ### 📊 Interactive omics data visualisation
 
 [**API_omic-visualization**](https://github.com/frgonzanu/API_omic-visualization)
